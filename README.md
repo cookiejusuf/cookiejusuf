@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @cookiejusuf
+- 👋 Hi, I’m cookiejusuf
 - 👀 I’m interested in programming
-- 📫 How to reach me telegram: @cookiecoder
+- 📫 How to reach me telegram: [click](https://t.me/cookiecoder)
