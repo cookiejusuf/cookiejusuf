@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.pinimg.com/originals/d1/de/5a/d1de5ab789284bc7f6a8988bc4756989.gif" width="1500" height="500"></p>
+<p align="center"><img src="[https://i.pinimg.com/originals/d1/de/5a/d1de5ab789284bc7f6a8988bc4756989.gif](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fz0s5cwwhu2321.gif)" width="1500" height="500"></p>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=500&color=ffffff&center=true&random=false&width=1000&height=100&lines=jusuf" alt="Typing SVG" /></a>
 **`Начинающий программист живущий самой обычной жизнью`**
