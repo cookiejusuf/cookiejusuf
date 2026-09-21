@@ -2,9 +2,9 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=500&color=ffffff&center=true&random=false&width=1000&height=100&lines=jusuf" alt="Typing SVG" /></a>
 
-<p align="left">
+<code>
  ||  ||  
  \\()// 
 //(__)\\
 ||    ||
-</p>
+</code>
